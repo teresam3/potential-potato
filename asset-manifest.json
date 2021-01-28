@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/potential-potato/static/css/main.218aa61a.chunk.css",
+    "main.js": "/potential-potato/static/js/main.e1244358.chunk.js",
+    "main.js.map": "/potential-potato/static/js/main.e1244358.chunk.js.map",
+    "runtime-main.js": "/potential-potato/static/js/runtime-main.170927ea.js",
+    "runtime-main.js.map": "/potential-potato/static/js/runtime-main.170927ea.js.map",
+    "static/css/2.150d169a.chunk.css": "/potential-potato/static/css/2.150d169a.chunk.css",
+    "static/js/2.7923a8cf.chunk.js": "/potential-potato/static/js/2.7923a8cf.chunk.js",
+    "static/js/2.7923a8cf.chunk.js.map": "/potential-potato/static/js/2.7923a8cf.chunk.js.map",
+    "static/js/3.61102436.chunk.js": "/potential-potato/static/js/3.61102436.chunk.js",
+    "static/js/3.61102436.chunk.js.map": "/potential-potato/static/js/3.61102436.chunk.js.map",
+    "index.html": "/potential-potato/index.html",
+    "static/css/2.150d169a.chunk.css.map": "/potential-potato/static/css/2.150d169a.chunk.css.map",
+    "static/css/main.218aa61a.chunk.css.map": "/potential-potato/static/css/main.218aa61a.chunk.css.map",
+    "static/js/2.7923a8cf.chunk.js.LICENSE.txt": "/potential-potato/static/js/2.7923a8cf.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.170927ea.js",
+    "static/css/2.150d169a.chunk.css",
+    "static/js/2.7923a8cf.chunk.js",
+    "static/css/main.218aa61a.chunk.css",
+    "static/js/main.e1244358.chunk.js"
+  ]
+}
