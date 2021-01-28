@@ -1,0 +1,31 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@600&display=swap");
+
+/* landing styling */
+.hero {
+  border: 0px;
+}
+
+.hero-image {
+  width: 1400px;
+  height: 700px;
+  position: relative;
+}
+
+.onHover {
+  position: relative;
+}
+
+.moreBtn {
+  text-align: center;
+  background-color: transparent;
+  border: none;
+  color: darkseagreen;
+  margin: 0;
+  position: absolute;
+  top: 50%;
+  -ms-transform: translateY(-50%);
+  transform: translateY(-50%);
+  font-family: 'Poppins', sans-serif;
+}
+
+  

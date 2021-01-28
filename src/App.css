@@ -1,0 +1,19 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@600&display=swap");
+
+body {
+  color: darkseagreen;
+  font-family: 'Poppins', sans-serif;
+  background-repeat: no-repeat;
+  background-attachment: fixed; 
+}
+
+
+/* media queries */
+
+@media only screen and (min-width: 600px) {
+/* For tablets: */
+}
+
+@media only screen and (min-width: 768px) {
+/* For desktop: */
+}

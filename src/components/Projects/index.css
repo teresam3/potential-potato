@@ -1,0 +1,14 @@
+/* work grid styling */
+.work-grid {
+    margin-top: 43px;
+    margin-bottom: 10px;
+  }
+  
+  #work {
+    margin: 20px;
+  }
+  
+  #work:hover {
+    border: solid 5px darkseagreen;
+  }
+  
