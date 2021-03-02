@@ -1,3 +1,7 @@
+
+![Main illustration on site] (../public/images/Teresa-Illustration.png)
+
+
 ## What the project does
 A portfolio using react that showcases existing projects done.
 ## Why the project is useful
