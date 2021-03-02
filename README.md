@@ -1,6 +1,5 @@
 
-![main illustratio of page] (https://teresam3.github.io/potential-potato/public/images/Teresa-Illustration.png)
-
+![main illustration of page] (./public/images/Teresa-Illustration.png)
 
 ## What the project does
 A portfolio using react that showcases existing projects done.
@@ -13,5 +12,5 @@ Contact the main contributor Teresa Maldonado teresam3 via github
 ## Who maintains and contributes to the project:
 teresam3
 
-## Deployed links
+## Deployed link
 https://teresam3.github.io/potential-potato/

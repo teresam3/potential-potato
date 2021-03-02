@@ -7,7 +7,7 @@ function Footer() {
             <div className="footer-nav container-fluid navbar-expand-lg">
             <ul className="nav justify-content-center">
                 <li className="nav-item">
-                    <p className="nav-link" >Have questions? Let's chat.<br/> teresa@teresamaldonado.com</p>
+                    <p className="nav-link" >Have questions? Let's chat.<br/> teresaemaldonado@gmail.com</p>
                 </li>
             <div className="w-100"></div>
                 <li className="nav-item">

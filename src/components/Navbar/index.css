@@ -6,12 +6,11 @@
 }
 
 .name-logo {
-  margin-left: 200px;
-  margin-right: 150px;
+  margin-left: 530px;
+  margin-right: 400px;
   padding: 5px;
   max-width: 45%;
   color: darkseagreen;
-  font-size: x-large;
 }
   
 .name-logo:hover {
