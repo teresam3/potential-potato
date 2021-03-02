@@ -8,3 +8,6 @@ use the github repo and
 Contact the main contributor Teresa Maldonado teresam3 via github
 ## Who maintains and contributes to the project:
 teresam3
+
+## Deployed links
+https://teresam3.github.io/potential-potato/
