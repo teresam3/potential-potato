@@ -1,5 +1,5 @@
 
-![Main illustration on site] (../public/images/Teresa-Illustration.png)
+![main illustratio of page] (https://teresam3.github.io/potential-potato/public/images/Teresa-Illustration.png)
 
 
 ## What the project does
